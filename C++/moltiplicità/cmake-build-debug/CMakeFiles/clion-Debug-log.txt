@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\79568187\Desktop\Informatica\C++\moltiplicità Select CMakeLists.txt

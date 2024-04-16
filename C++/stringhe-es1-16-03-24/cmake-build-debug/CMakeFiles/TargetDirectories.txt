@@ -1,0 +1,3 @@
+C:/Users/79568187/Desktop/Informatica/C++/stringhe-es1-16-03-24/cmake-build-debug/CMakeFiles/stringhe_es1_16_03_24.dir
+C:/Users/79568187/Desktop/Informatica/C++/stringhe-es1-16-03-24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79568187/Desktop/Informatica/C++/stringhe-es1-16-03-24/cmake-build-debug/CMakeFiles/rebuild_cache.dir

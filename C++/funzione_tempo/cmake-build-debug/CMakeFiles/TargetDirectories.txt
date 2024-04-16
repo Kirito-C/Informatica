@@ -1,0 +1,3 @@
+C:/Users/79568187/Desktop/Informatica/C++/funzione_tempo/cmake-build-debug/CMakeFiles/funzione_tempo.dir
+C:/Users/79568187/Desktop/Informatica/C++/funzione_tempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79568187/Desktop/Informatica/C++/funzione_tempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

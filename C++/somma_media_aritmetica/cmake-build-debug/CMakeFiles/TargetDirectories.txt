@@ -1,0 +1,3 @@
+C:/Users/79568187/Desktop/Informatica/C++/somma_media_aritmetica/cmake-build-debug/CMakeFiles/somma_media_aritmetica.dir
+C:/Users/79568187/Desktop/Informatica/C++/somma_media_aritmetica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79568187/Desktop/Informatica/C++/somma_media_aritmetica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
